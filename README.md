@@ -13,3 +13,12 @@ Conditional statements in Python allow for the execution of specific code blocks
 
 # WEEK 2
 ## Loops
+
+This week I went over: while. for. list. range. continue. break. list. len. dict. None.
+Loops in Python are control flow statements used to repeatedly execute a block of code.
+Python primarily offers two types of loops: for loops and while loops.
+break is used to stop a loop, while continue skips over certain code in a loop.
+
+# WEEK 3
+## Exceptions
+This week I learnt about: Exceptions. SyntaxError. ValueError. try. except. NameError. else. pass. raise.
