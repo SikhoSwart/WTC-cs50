@@ -3,7 +3,7 @@
 greeting = input("Greeting: ").strip()
 
 #check if greeting is "hello", lower makes it case sensitive
-if greeting.lower() == "hello":
+if greeting[0:5].lower() == "hello":
     print("$0")
 
 #check if the first letter is h
