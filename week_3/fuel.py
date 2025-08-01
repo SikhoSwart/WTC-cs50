@@ -16,13 +16,13 @@ while True:
         pass
     except ZeroDivisionError:
         pass
-    #handle cases where x>y and 'x/y' < 0
-    if x > y:
-        continue
-    if (x/y) < 0:
-        continue
 
     else:
+            #handle cases where x>y and 'x/y' < 0
+        if x > y:
+            continue
+        if (x/y) < 0:
+            continue
         #1% or less remains, output E 
         if perc <= 1:
             print("E")
@@ -30,6 +30,6 @@ while True:
         elif perc >= 99:
             print("F")
         else:
-            print(f'{perc}%')
+            print(f'{perc:.0f}%')
 
         break
