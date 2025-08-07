@@ -22,3 +22,15 @@ break is used to stop a loop, while continue skips over certain code in a loop.
 # WEEK 3
 ## Exceptions
 This week I learnt about: Exceptions. SyntaxError. ValueError. try. except. NameError. else. pass. raise.
+The **try** block contains the code that might raise an exception.
+The **except** block specifies how to handle a particular type of exception if it occurs within the try block. Multiple except blocks can be used to handle different exception types.
+An optional **else** block can be included, which executes if no exception occurs in the try block.
+
+# WEEK 4
+## Libraries
+Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv. IndexError. sys.exit. Slices. Packages. PyPI. pip. cowsay. APIs. requests. JSON. __name__.
+
+# WEEK 5
+
+
+# WEEK 6
