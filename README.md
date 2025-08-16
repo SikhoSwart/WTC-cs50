@@ -31,6 +31,7 @@ An optional **else** block can be included, which executes if no exception occur
 Modules. random. import. from. statistics. Command-Line Arguments. sys. sys.argv. IndexError. sys.exit. Slices. Packages. PyPI. pip. cowsay. APIs. requests. JSON. __name__.
 
 # WEEK 5
-
+assert. AssertionError. pytest. Packages. __init__.py
+TestCase provides various assertion methods (e.g., assertEqual, assertTrue, assertRaises) to verify expected outcomes and identify discrepancies in the code's behavior.
 
 # WEEK 6
