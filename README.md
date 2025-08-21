@@ -35,3 +35,6 @@ assert. AssertionError. pytest. Packages. __init__.py
 TestCase provides various assertion methods (e.g., assertEqual, assertTrue, assertRaises) to verify expected outcomes and identify discrepancies in the code's behavior.
 
 # WEEK 6
+## FILE I/O
+list. open. with. sorted. CSV. dict. csv. PIL.
+File Input/Output (I/O) in Python refers to the process of interacting with files on a storage device. This involves reading data from existing files and writing data to new or existing files.
